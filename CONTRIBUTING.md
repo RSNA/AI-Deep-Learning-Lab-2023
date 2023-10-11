@@ -1,4 +1,4 @@
-> Contributing Guidelines for Presenters
+# Contributing Guidelines for Presenters
 Detailed instructions for contributing were sent out in an email to course faculty.
 
 Please add any files required for your session to the appropriate subdirectory of sessions. E.g. if you're uploading files for the CT Body Part Classification session, you should add them to the folder sessions/ct-body-part.
