@@ -21,7 +21,7 @@ We recommend that you use a computer with a recent vintage processor running the
 | Date / Time | Class Folder | Notebooks |
 | --- | --- | --- |
 | Sunday, 26 Nov 2023 |
-| Sun 10:00-11:00am | [Basics of NLP in Radiology](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/nlp-basics) (_Beginner friendly_) | TBD |
+| Sun 10:00-11:00am | [Basics of NLP in Radiology](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/nlp-basics) (_Beginner friendly_) | [Train notebook](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/blob/main/sessions/ct-body-part/train.ipynb), [Inference notebook](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/blob/main/sessions/ct-body-part/inference.ipynb) |
 | Sun 11:00am-12:30pm | [CT Body Part Classification](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/ct-body-part) (_Beginner friendly_) | TBD |
 | Sun 2:30-3:30pm | [Data Processing & Curation for Deep Learning](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/data-curation) (_Beginner friendly_) | TBD |
 | Monday, 27 Nov 2023 |
