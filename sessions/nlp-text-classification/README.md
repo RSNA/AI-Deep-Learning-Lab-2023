@@ -1,9 +1,9 @@
-# NLP: Text Classification with RNNs & Transformers
+# NLP: Text Classification with Transformers
 
 ## Presenters
 - Walter Wiggins
 - Kirti Magudia
 
 ## Session Date & Time
-Tuesday, November 30, 2021
-3:00 PM
+Monday, November 27, 2023
+1:30 - 2:30 PM (US Central Time)
