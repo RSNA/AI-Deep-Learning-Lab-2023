@@ -1,9 +1,9 @@
-# YOLO: Bounding Box Segmentation & Classification
+# Object Detection in Medical Imaging
 
 ## Presenters
 - Pouria Rouzrokh
 - Brad Erickson
 
 ## Session Date & Time
-Monday, November 29, 2021
-9:30 AM
+Wednesday, 29 Nov 2023
+10:00 - 11:00 AM
