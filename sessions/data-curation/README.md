@@ -5,5 +5,5 @@
 - Walter Wiggins
 
 ## Session Date & Time
-Wednesday, December 1, 2021
-4:30 PM
+Sunday, 26 Nov 2023
+2:30-3:30 PM

@@ -4,8 +4,7 @@
 - Kuan (Kevin) Zhang
 - Bradley J. Erickson
 - Jayashree Kalpathy-Cramer
-- Jay Biren Patel
 
 ## Session Date & Time
-Sunday, November 28, 2021
-10:30 AM
+Tuesday, 28 Nov 2023
+12:00 - 1:00 PM
