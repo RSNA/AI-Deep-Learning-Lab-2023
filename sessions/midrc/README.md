@@ -24,7 +24,7 @@
 - Sam Armato (University of Chicago)
 - Karen Drukker (University of Chicago)
 
-### Practice your annotation skills
+### 3a. Practice your annotation skills
 
 **Click here to start annotating (sign in with your Google / Microsoft / Github account) -- this URL will create your own private annotation environment**
 
@@ -34,7 +34,7 @@ https://rsna.md.ai/annotator/project/ZGNZmxR8?clone=1
 
 ![image](https://github.com/georgezero/AI-Deep-Learning-Lab-2023/assets/12178283/9c7e266e-24c8-42f7-b050-5227831e91ee)
 
-**Visualize your annotations using python**
+### 3b. Visualize your annotations using python
 
 This URL forwards to the latest Google Colab notebook for visualizing your annotations.  Instructions are provided in the notebook:
 
