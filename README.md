@@ -32,7 +32,7 @@ We recommend that you use a computer with a recent vintage processor running the
 | Mon 3:00-4:00pm | [Accessing freely available public datasets from The Cancer Imaging Archive (TCIA)](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/tcia) (_Beginner friendly_) | TBD |
 | Tuesday, 28 Nov 2023 |
 | Tues 9:00-10:00am | [Zero-code Implementation of Federated Learning for Radiology]() (_Beginner friendly_) | TBD |
-| Tues 10:30-11:30am | [MIDRC: Building & Using AI-Ready Datasets from a Massive Open Data Commons]() (_Beginner friendly_) | TBD |
+| Tues 10:30-11:30am | [MIDRC: Building & Using AI-Ready Datasets from a Massive Open Data Commons](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/midrc) (_Beginner friendly_) | TBD |
 | Tues 12:00-1:00pm | [MedNIST Exam Classification with MONAI](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/mednist-monai) (_Beginner friendly_) | TBD |
 | Tues 1:30-2:30pm | [Evaluating Fairness of AI Models in Radiology]() | TBD |
 | Tues 3:00-4:00 pm | [Best Practices for Model Training: Architectures, Hyperparameters & Optimization](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/best-practices-training) | TBD |
