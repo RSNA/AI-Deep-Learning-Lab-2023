@@ -1,8 +1,9 @@
-# Generative Adversarial Networks
+# Medical Image Generation
 
 ## Presenters
-- 
+- Bardia Khosravi
+- Brad Erickson
 
 ## Session Date & Time
-Monday, November 29, 2021
-1:30 PM
+Wednesday, 29 Nov 2023
+11:30 AM - 12:30 PM
