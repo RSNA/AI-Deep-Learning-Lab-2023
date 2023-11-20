@@ -40,7 +40,7 @@ We recommend that you use a computer with a recent vintage processor running the
 | Wed 10:00-11:00 am | [Object Detection in Medical Imaging]() | TBD |
 | Wed 11:30am-12:30pm | [Medical Image Generation]() | TBD |
 | Wed 1:00-2:00pm | [Accelerate your AI-based medical imaging research with MONAI Core on SageMaker](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/monai-sagemaker) | TBD |
-| Wed 2:30-3:30pm | [Developing & Implementing a 3D Segmentation Model: From DICOM to Deployment]() | TBD |
+| Wed 2:30-3:30pm | [Developing & Implementing a 3D Segmentation Model: From DICOM to Deployment](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/3d-seg) | **Notebooks in session folder:** [see README](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/3d-seg) |
 | Thursday, 30 Nov 2023 |
 | Thurs 9:00-10:00am | [DICOM In, DICOM Out for Segmentation](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/dicom-seg) | [Notebook](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/blob/main/sessions/dicom-seg/RSNA_2021_DICOM_IN_DICOM_OUT_Segmentation.ipynb) |
 | Thurs 10:30-11:30 am | [Deploy Your Own Model in HuggingFace]() | TBD |
