@@ -23,4 +23,4 @@ please create an account using the link above and then email help@cancerimaginga
 We'll begin with a very brief [slide presentation](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/raw/main/sessions/tcia/RSNA_DLL_intro_2023-11-15.pptx) to provide an overview of The Cancer Imaging Archive.
 
 # Interactive Notebook
-Then we'll walk through [this notebook]([https://github.com/RSNA/AI-Deep-Learning-Lab-2023/raw/main/sessions/tcia/TCIA_RSNA_Deep_Learning_Lab_2023.ipynb](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/blob/main/sessions/tcia/TCIA_RSNA_Deep_Learning_Lab_2023.ipynb)https://github.com/RSNA/AI-Deep-Learning-Lab-2023/blob/main/sessions/tcia/TCIA_RSNA_Deep_Learning_Lab_2023.ipynb) together for the hands-on portion of the learning lab.
+Then we'll walk through [this notebook](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/blob/main/sessions/tcia/TCIA_RSNA_Deep_Learning_Lab_2023.ipynb) together for the hands-on portion of the learning lab.
