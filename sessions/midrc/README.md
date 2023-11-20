@@ -2,8 +2,11 @@
 
 ### MIDRC at RSNA 2023: Deep Learning Lab
 
+## Session Date & Time
+
 **Tuesday, November 28 from 10:30 - 11:30am CST** 
 
+This session, led by principal investigators of MIDRC will give an overview of the structure of the MIDRC data commons and a tour of the open access data portal published on the Gen3 platform. During this session, attendees will have the opportunity to experience how to build a selected data cohort direct from the MIDRC data commons for AI research.
 
 
 ## 1. Intro to MIDRC (short overview) and moderator; how are data important to deep learning [5 min]
@@ -48,3 +51,4 @@ https://ai.skp.one/rsna23-midrc-dll-annotation-colab-notebook
 
 - Karen Drukker (University of Chicago)
 - Michael McNitt-Gray (UCLA) 
+
