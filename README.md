@@ -27,7 +27,7 @@ We recommend that you use a computer with a recent vintage processor running the
 | Monday, 27 Nov 2023 |
 | Mon 9:00-10:00am | [DICOM Data Wrangling with Python](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/dicom-wrangling) (_Beginner friendly_) | [Notebook](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/blob/main/sessions/dicom-wrangling/DataWrangling2021RSNA16.ipynb) |
 | Mon 10:30-11:30am | [NCI Imaging Data Commons: Curated data and Reproducible AI workflows](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/nci-idc) (_Beginner friendly_) | TBD |
-| Mon 12:00-1:00pm | [ChatCTP: DICOM De-Identification Using ChatGPT]() (_Beginner friendly_) | TBD |
+| Mon 12:00-1:00pm | [ChatCTP: DICOM De-Identification Using ChatGPT](https://github.com/georgezero/rsna23-chatctp-dicom-deid-using-chatgpt/) (_Beginner friendly_) | [Notebook](https://ai.skp.one/rsna23-deid-dll-colab-notebook) |
 | Mon 1:30-2:30pm | [NLP: Text Classification with Transformers](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/nlp-text-classification) (_Beginner friendly_) | TBD |
 | Mon 3:00-4:00pm | [Accessing freely available public datasets from The Cancer Imaging Archive (TCIA)](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/tree/main/sessions/tcia) (_Beginner friendly_) | [Notebook](https://github.com/RSNA/AI-Deep-Learning-Lab-2023/blob/main/sessions/tcia/TCIA_RSNA_Deep_Learning_Lab_2023.ipynb) |
 | Tuesday, 28 Nov 2023 |
