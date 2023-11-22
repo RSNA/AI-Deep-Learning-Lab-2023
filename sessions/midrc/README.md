@@ -21,7 +21,7 @@ This session, led by principal investigators of MIDRC will give an overview of t
 - Heather Whitney (University of Chicago)
 - Rui Sa (University of California)
 
-We will use [this Jupyter notebook in Google Colab](https://colab.research.google.com/github/cgmeyer/AI-Deep-Learning-Lab-2023/blob/main/MIDRC_Cohort_Building_DLL_RSNA_2023.ipynb).
+We will use [this Jupyter notebook in Google Colab](https://colab.research.google.com/github/cgmeyer/AI-Deep-Learning-Lab-2023/blob/main/sessions/midrc/MIDRC_Cohort_Building_DLL_RSNA_2023.ipynb).
 
 ## 3. Demonstration of Grand Challenges and Annotations from one of the prior challenges – (interactive hands-on) [15 min]
 
