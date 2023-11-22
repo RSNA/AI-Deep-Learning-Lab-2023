@@ -54,3 +54,6 @@ https://ai.skp.one/rsna23-midrc-dll-annotation-colab-notebook
 - Karen Drukker (University of Chicago)
 - Michael McNitt-Gray (UCLA) 
 
+MIDRC MetricTree: an interactive decision tree for finding appropriate performance metrics for evaluation of medical imaging AI/ML tasks: https://www.midrc.org/performance-metrics-decision-tree
+
+Bias awareness tool: resource for bias identification and mitigation along the AI/ML development pipeline: https://www.midrc.org/bias-awareness-tool-1
