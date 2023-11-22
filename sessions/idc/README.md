@@ -10,7 +10,7 @@ This notebook was prepared for the IDC Deep Learning Lab DLL session at the [Rad
 Andrey Fedorov, PhD - Brigham and Women's Hospital / Harvard Medical School
 
 ## Session Date & Time
-Monday, November 27, 2023 10:30 - 11:30 PM (US Central Time)
+Monday, November 27, 2023 10:30 - 11:30 AM (US Central Time)
 
 To learn more about IDC you are also welcome to visit RSNA'23 *Imaging Informatics Educational Exhibit INEE-45 "NCI Imaging Data Commons: Towards Transparency and Reproducibility in Imaging AI"* at the Learning Center to ask questions and see more IDC demonstrations!
 
