@@ -1,6 +1,6 @@
 # Evaluating Fairness of AI Models in Radiology
 
-Session by: Paul Yi, [Jeremias Sulam](https://sites.google.com/view/jsulam), [Beepul Bharti](https://beepulbharti.github.io/), and [Jacopo Teneggi](https://jacopoteneggi.github.io/)
+Session by: Paul Yi, [Jeremias Sulam](https://sites.google.com/view/jsulam), [Beepul Bharti](https://beepulbharti.github.io/), and [Jacopo Teneggi](https://jacopoteneggi.github.io/).
 
 
 ## Objective 1: Evaluating Fairness
