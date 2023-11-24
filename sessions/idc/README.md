@@ -32,6 +32,9 @@ If this is the first time you hear about IDC, here are some highlights about wha
 * **commercial-friendly**: most of the data in IDC is covered by the permissive CC-BY license, which allows commercial reuse (small subset of data is covered by the CC-NC license); each file in IDC is tagged with the license to make it easy for you to understand and follow the rules
 * **harmonized**: all of the images and image-derived data in IDC is harmonized into standard DICOM representation
 
+You can learn more from our recent _RadioGraphics_ paper here:
+> Fedorov, A., Longabaugh, W. J. R., Pot, D., Clunie, D. A., Pieper, S. D., Gibbs, D. L., Bridge, C., Herrmann, M. D., Homeyer, A., Lewis, R., Aerts, H. J. W., Krishnaswamy, D., Thiriveedhi, V. K., Ciausu, C., Schacherer, D. P., Bontempi, D., Pihl, T., Wagner, U., Farahani, K., Kim, E. & Kikinis, R. National Cancer Institute Imaging Data Commons: Toward Transparency, Reproducibility, and Scalability in Imaging Artificial Intelligence. RadioGraphics (2023). doi:[10.1148/rg.230180](https://doi.org/10.1148/rg.230180)
+
 ## Tutorial program
 
 ### 1. Introduction to IDC 
