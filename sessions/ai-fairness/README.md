@@ -7,11 +7,11 @@ Session by: Paul Yi, [Jeremias Sulam](https://sites.google.com/view/jsulam), [Be
 
 ### Motivation
 
-As machine learning models become more and more complex, their predictions become less and less intelligible to the humans interacting with them.
+As the use of machine learning models in real world high-stakes decision settings continues to grow, it is highly important that we are able to audit and control for any potential fairness violations these models may exhibit towards certain groups.
 
-Recently, *post-hoc* explanation methods have been proposed to produce saliency maps that highlight the most important features in an input for with respect to a given model prediction.
+Common notions of fairness consider the different error rates of a model across different groups: males and females, white and non-white, etc. For example, the equal opportunity criterion requires the true positive rate (TPR) be equal across both groups, while equalized odds requires both TPR and false positive rate (FPR) to be the same across groups. 
 
-Explanation methods can be used to verify that a model is not relying on spurious correlations in the data, to identify potential biases, and to enhance trust in the model.
+These notions of fairness allow us to identify which groups the model could be negatively impacting and in turn allow us to formulate methods to help the unfairly treated group.
 
 ### Agenda
 
