@@ -33,4 +33,4 @@ We will evaluate model's performance on an external hold-out test set: the CT-IC
 - [RSNA 2019 Intracranial Hemorrhage Detection Challenge](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection)
 - [CT-ICH dataset](https://physionet.org/content/ct-ich/1.3.1/)
 - h-Shap: [Teneggi, Jacopo, Alexandre Luster, and Jeremias Sulam. "Fast hierarchical games for image explanations." IEEE Transactions on Pattern Analysis and Machine Intelligence 45.4 (2022): 4494-4503.](https://www.computer.org/csdl/journal/tp/2023/04/09826424/1EVdAz76rC0)
-- Estimating and Controlling for Equalized Odds via Sensitive Attribute Predictors: [Bharti, Beepul, Paul Yi, and Jeremias Sulam. "Estimating and Controlling for Equalized Odds via Sensitive Attribute Predictors." Neural Information Processing Systems (2023)] (https://openreview.net/pdf?id=e2aCgjtjMR)
+- Estimating and Controlling for Equalized Odds via Sensitive Attribute Predictors: [Bharti, Beepul, Paul Yi, and Jeremias Sulam. "Estimating and Controlling for Equalized Odds via Sensitive Attribute Predictors." Neural Information Processing Systems (2023)](https://openreview.net/pdf?id=e2aCgjtjMR)
