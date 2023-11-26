@@ -7,7 +7,11 @@ Session by: Paul Yi, [Jeremias Sulam](https://sites.google.com/view/jsulam), [Be
 
 ### Motivation
 
+As machine learning models become more and more complex, their predictions become less and less intelligible to the humans interacting with them.
 
+Recently, *post-hoc* explanation methods have been proposed to produce saliency maps that highlight the most important features in an input for with respect to a given model prediction.
+
+Explanation methods can be used to verify that a model is not relying on spurious correlations in the data, to identify potential biases, and to enhance trust in the model.
 
 ### Agenda
 
