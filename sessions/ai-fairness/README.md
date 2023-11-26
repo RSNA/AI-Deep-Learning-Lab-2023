@@ -19,8 +19,7 @@ In this session, we will explore model fairness for ICH detection in head CT.
 
 In particular, we will use a model trained on the RSNA 2019 Intracranial Hemorrhage Detection Challenge. 
 
-We will evaluate the model's fairness with respect to biological sex on an external hold-out test set: the CT-ICH dataset and learn of a simple method to correct for fairness violations.
-
+We will evaluate the model's fairness with respect to biological sex and learn of a simple method to correct for fairness violations.
 
 ## Objective 2: Explaining Model Predictions
 
