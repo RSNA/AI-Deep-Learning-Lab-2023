@@ -7,7 +7,15 @@ Session by: Paul Yi, [Jeremias Sulam](https://sites.google.com/view/jsulam), [Be
 
 ### Motivation
 
+
+
 ### Agenda
+
+In this session, we will explore model fairness for ICH detection in head CT. 
+
+In particular, we will use a model trained on the RSNA 2019 Intracranial Hemorrhage Detection Challenge. 
+
+We will evaluate the model's fairness with respect to biological sex on an external hold-out test set: the CT-ICH dataset and learn of a simple method to correct for fairness violations.
 
 
 ## Objective 2: Explaining Model Predictions
@@ -24,7 +32,7 @@ Explanation methods can be used to verify that a model is not relying on spuriou
 
 In this session, we will explore explainability for ICH detection in head CT. 
 
-In particular, we will use model trained on the RSNA 2019 Intracranial Hemorrhage Detection Challenge. 
+In particular, we will use a model trained on the RSNA 2019 Intracranial Hemorrhage Detection Challenge. 
 
 We will evaluate model's performance on an external hold-out test set: the CT-ICH dataset, and we will use h-Shap to explain models predictions.
 
